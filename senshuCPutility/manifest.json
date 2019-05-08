@@ -1,13 +1,14 @@
-{
+﻿{
 
   "manifest_version": 2,
-  "name": "senshuUtilityForFireFox",
-  "version": "sendhy",
+  "name": "senshuUtility",
+  "version": "0.1",
+  "version_name": "sendhy",
   "author": "@cgeTen",
   "description": "専修大学のコースパワーを便利に使えるようにするやつです。",
   
   "icons": {
-    "48": "icon.jpg"
+    "48": "icon.png"
   },
 
   "content_scripts": [
