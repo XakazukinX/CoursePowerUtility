@@ -1,0 +1,12 @@
+#counter
+{
+	position:fixed;
+	top: 10px;
+	right: 15px;
+	background: #42f489;
+	background-size: 40px;
+	border-radius: 30px;
+	padding: 10px;
+	color: #ffffff;
+	text-shadow: 1px 1px 10px rgba(0,0,0,1);
+}
