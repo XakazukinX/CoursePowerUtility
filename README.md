@@ -1,0 +1,2 @@
+# CoursePowerUtility
+コースパワー使いやすくするFireFox拡張
