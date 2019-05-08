@@ -1,6 +1,6 @@
-# CoursePowerUtility
-[CoursePower](https://cp.ss.senshu-u.ac.jp/lms/lginLgir/)を使いやすくするFireFoxの拡張機能です。
-
+﻿# CoursePowerUtility
+[CoursePower](https://cp.ss.senshu-u.ac.jp/lms/lginLgir/)を使いやすくするFireFoxの拡張機能です。  
+[ここ](https://addons.mozilla.org/en-US/firefox/addon/coursepowerutility/)からDLできます  
 現在は専修大学にしか対応していませんが、mainifest.jsonの中身を書き換えることで他のCoursePowerにも対応できると思います。
 
 ## 現在の機能
@@ -20,4 +20,5 @@ ctrl + enterもしくはcommand + enter の入力でレポートなどを提出�
 ## 追加機能について
 追加してほしい機能を随時募集しています。  
 連絡は[こちら](https://twitter.com/cgeten)まで。  
-気が向いたら作成します！
+気が向いたら作成します！  
+全然JS書かないので大目に見てください・・・  
